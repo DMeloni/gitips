@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to Gitips", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-gitips", 
+            "text": "", 
+            "title": "Welcome to Gitips"
+        }
+    ]
+}
